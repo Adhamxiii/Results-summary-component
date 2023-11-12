@@ -34,4 +34,4 @@ This project is a responsive Results Summary Component created as a part of the 
 ## Credits
 
 - Challenge provided by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge).
-- Coded by [Adham Nasser](https://github.com/Adham-XIII).
+- Coded by [Adham Nasser](https://github.com/Adhamxiii).
